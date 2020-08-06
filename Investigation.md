@@ -1,7 +1,8 @@
-#Chall Description;
+# Chall Description;
+
 ![description](https://user-images.githubusercontent.com/47820151/89540654-3285c700-d7b2-11ea-9ffa-7f2c6ef73c04.png)
 
-#Writeup;
+# Writeup;
   As we were given a windows memory dump file I've started to analyze it with volatility.
   So 1st we go with finding image profile using imageinfo command in volatility.
   But this takes a little while
@@ -9,7 +10,7 @@
   Now knowing profile we can proceed with finding what we need, 
   The main objectives are; 1. To find when is the last time that caluclator is opened.
                            2. To find how many times Chrome was used.
-##Part-1; 
+## Part-1; 
 To find when an app is last opened, there are multiples way to proceed with. Those are,
 1. Prefetch files;
     Windows store prefetch files and these prefetch files give details about every file that is opened and details like when its last modified, what version it is, and all details.
