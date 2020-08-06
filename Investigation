@@ -1,9 +1,11 @@
 Chall Description;
 
 ![description](https://user-images.githubusercontent.com/47820151/89537821-b3db5a80-d7ae-11ea-918a-37df5217c8ac.png)
+
 Writeup;
   As we were given a windows memory dump file I've started to analyze it with volatility.
   So 1st we go with finding image profile using imageinfo command in volatility.
-
+  But this takes a little while
+  
   ![Screenshot from 2020-08-06 06-45-55](https://user-images.githubusercontent.com/47820151/89539506-ade67900-d7b0-11ea-968e-04625af18f5c.png)
   
