@@ -34,6 +34,7 @@ updated that is **21-07-2020_18:21:35**
   
   
   ![chrome-userassist](https://user-images.githubusercontent.com/47820151/89549764-982b8080-d7bd-11ea-8c1c-c5737413360d.png)
+  
   The count is 19 as mentioned.
 Wrapping the time stamp and count in flag format gives; **inctf{21-07-2020_18:21:35_19}**
 While doing this challenge during ctf, I have started with part2 so I am so sure that count is 19 and was able to identify which timestamp is correct and which is not.
