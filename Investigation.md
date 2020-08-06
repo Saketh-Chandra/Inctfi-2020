@@ -16,6 +16,11 @@ To find when an app is last opened, there are multiples way to proceed with. Tho
     Windows store prefetch files and these prefetch files give details about every file that is opened and details like when its last modified, what version it is, and all details.
     All we have to do is get that prefetch file which is related to calc.exe and open it using **IEF** tool or **CROWDSTRIKE CROWDRESPONSE** tool.
     But issue with this method is you should be able to extract and open .pf files properly. Unfortunately the timestamp mentioned in this process is incorrect.
+    Prefetch files can be found under the **C:\Windows\Prefetch** folder.
 2. Super Prefetch files;
-    It is same as prefetch but this time we have to open 
+    Also in the Prefetch directory can be some files which are related to Superfetch. One of these files is AgAppLaunch.db which contains information about the       executed files. I found this file so I used **CrowdStrike’s CrowdResponse** tool to parse it. I could successfully parse the file and get a file for Adobe Reader execution but unfortunately, this value is also incorrect.
+3. MFT Parser;
+    I've used 
+
+
   
