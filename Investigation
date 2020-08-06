@@ -1,6 +1,5 @@
 Chall Description;
-
-![description](https://user-images.githubusercontent.com/47820151/89537821-b3db5a80-d7ae-11ea-918a-37df5217c8ac.png)
+![description](https://user-images.githubusercontent.com/47820151/89540654-3285c700-d7b2-11ea-9ffa-7f2c6ef73c04.png)
 
 Writeup;
   As we were given a windows memory dump file I've started to analyze it with volatility.
