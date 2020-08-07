@@ -51,9 +51,11 @@ I'm writing this writeup in the order I got the flags.
   By the time I extracted this registry the ctf has ended and it really hurts when we miss something big when we lack time of 5 minutes. :(
   
 Wrapping the flags we got as mentioned gives us;
+
   Flag1; 22-07-2020_09:05:11
   Flag2; 21-07-2020_18:38:33
   Flag3; 21-07-2020_17:37:18
+  
   Joining these 3 flags, we get **inctf{22-07-2020_09:05:11_21-07-2020_18:38:33_21-07-2020_17:37:18}** .
   
 But I enjoyed the challenge and learnt many things about analyzing registries and related info. Thanks to stuxn3t. 
