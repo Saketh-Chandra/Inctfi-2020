@@ -1,6 +1,7 @@
 # Description;
 
-![description2](/pictures/investigation-1/description.png)
+![inv cont description](https://user-images.githubusercontent.com/47820151/91049340-eddf9580-e5d1-11ea-990b-853498d00525.png)
+
 
 # Writeup;
 
