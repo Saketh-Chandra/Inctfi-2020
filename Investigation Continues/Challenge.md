@@ -1,6 +1,6 @@
 # Description;
 
-![description2](https://user-images.githubusercontent.com/47820151/89608955-576a5080-d82b-11ea-9db2-7c70666e4c11.png)
+![description2](/pictures/investigation-1/description.png)
 
 # Writeup;
 
